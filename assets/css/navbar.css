@@ -1,0 +1,17 @@
+body {
+  /*padding-top: 20px;*/
+  padding-bottom: 20px;
+  font-weight: 500px;
+}
+
+.navbar {
+  margin-bottom: 20px;
+}
+
+.lead-nav {
+	font-size: 1rem;
+    font-weight: 400;
+}
+.navbar-light .navbar-nav .nav-link {
+	color: rgba(0,0,0,0.85);
+}
